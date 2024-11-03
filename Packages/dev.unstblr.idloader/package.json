@@ -1,0 +1,16 @@
+{
+  "name": "dev.unstblr.idloader",
+  "displayName": "IDLoader",
+  "version": "1.0.0",
+  "description": "IDLoader is an utillity tool that can allow certain user to be able to do certain things.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "unstblr",
+    "email": "uwustblr@gmail.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\Unity Project\\IDLoader2\\Packages\\dev.unstblr.idloader"
+}
